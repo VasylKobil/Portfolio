@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j9F1799XzsUEQHuqPEyMUFW2gT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="" />
+      <created>1603208183350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603208183350</updated>
+      <workItem from="1603208186076" duration="3327000" />
+      <workItem from="1603216188598" duration="3461000" />
+      <workItem from="1603289495193" duration="219000" />
+      <workItem from="1603882780368" duration="12651000" />
+      <workItem from="1604007658765" duration="921000" />
+      <workItem from="1604058037335" duration="490000" />
+      <workItem from="1604558337346" duration="275000" />
+      <workItem from="1605210597010" duration="134000" />
+    </task>
+    <task id="LOCAL-00001" summary="Change text">
+      <created>1603210507447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603210507447</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change CV">
+      <created>1603211593860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603211593860</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change text and style.">
+      <created>1603886428448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603886428448</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change text and style.">
+      <created>1603886691725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603886691725</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change text and style.">
+      <created>1604001913356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604001913356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change styles.">
+      <created>1604007044239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604007044239</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change styles.">
+      <created>1604007855886</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604007855886</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change styles.">
+      <created>1604008201982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604008201982</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Change text.">
+      <created>1604008416879</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604008416879</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Change styles css header">
+      <created>1604058356346</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604058356346</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change text" />
+    <MESSAGE value="Change CV" />
+    <MESSAGE value="Change text and style." />
+    <MESSAGE value="Change styles." />
+    <MESSAGE value="Change text." />
+    <MESSAGE value="Change styles css header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change styles css header" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1604058345105">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1604058345105" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1604058370799">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1604058370799" />
+    <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603216841325">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1603216841325" />
+  </component>
+</project>
