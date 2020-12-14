@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="Add CV">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/music.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/guitar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/weather.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/weather.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -51,19 +58,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vkobi\IdeaProjects\portfolio\assets\img\portfolio" />
       <recent name="D:\Little programer\portfolio\assets\img\portfolio" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,6 +93,10 @@
       <workItem from="1605210597010" duration="134000" />
       <workItem from="1605213021107" duration="162000" />
       <workItem from="1605213282376" duration="242000" />
+      <workItem from="1607003771864" duration="3201000" />
+      <workItem from="1607165252724" duration="1961000" />
+      <workItem from="1607597851868" duration="6000" />
+      <workItem from="1607953362354" duration="9719000" />
     </task>
     <task id="LOCAL-00001" summary="Change text">
       <created>1603210507447</created>
@@ -174,6 +184,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change text" />
@@ -184,24 +195,5 @@
     <MESSAGE value="Change styles css header" />
     <MESSAGE value="Add CV" />
     <option name="LAST_COMMIT_MESSAGE" value="Add CV" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1604058345105">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1604058345105" />
-    <state x="321" y="124" key="MultipleFileMergeDialog" timestamp="1605306663517">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="321" y="124" key="MultipleFileMergeDialog/0.0.1366.728/1366.0.1360.768@0.0.1366.728" timestamp="1605306663517" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1605307166334">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1360.768@0.0.1366.728" timestamp="1605307166334" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1604058370799" />
-    <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603216841325">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1603216841325" />
   </component>
 </project>
