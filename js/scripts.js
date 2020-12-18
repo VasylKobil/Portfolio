@@ -5,9 +5,9 @@
     // Smooth scrolling using jQuery easing
     $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () {
         if (
-            location.pathname.replace(/^\//, "") ==
+            location.pathname.replace(/^\//, "") ===
                 this.pathname.replace(/^\//, "") &&
-            location.hostname == this.hostname
+            location.hostname ===this.hostname
         ) {
             var target = $(this.hash);
             target = target.length
@@ -60,3 +60,14 @@
                 .animate({marginTop: '+='+distance}, speed);
         }
     }
+
+    ScrollOut({
+        onShown: function(el) {
+            // use the web animation API
+            el.animate([{ opacity: 0 }, { opacity: 1}],1500)
+        },
+        onHidden: function(el) {
+            // hide the element initially
+            el.style.opacity = 1;
+        }
+    });

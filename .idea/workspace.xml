@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="Add CV">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/music.png" afterDir="false" />
+    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="WebPage improved design and added new technology ScrollOut.js">
+      <change afterPath="$PROJECT_DIR$/assets/img/image_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/guitar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/weather.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/weather.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
@@ -38,12 +35,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j9F1799XzsUEQHuqPEyMUFW2gT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,19 +61,6 @@
       <recent name="C:\Users\vkobi\IdeaProjects\portfolio\assets\img\portfolio" />
       <recent name="D:\Little programer\portfolio\assets\img\portfolio" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,7 +83,10 @@
       <workItem from="1607003771864" duration="3201000" />
       <workItem from="1607165252724" duration="1961000" />
       <workItem from="1607597851868" duration="6000" />
-      <workItem from="1607953362354" duration="9719000" />
+      <workItem from="1607953362354" duration="9849000" />
+      <workItem from="1608117339823" duration="611000" />
+      <workItem from="1608118209328" duration="29314000" />
+      <workItem from="1608288750457" duration="3936000" />
     </task>
     <task id="LOCAL-00001" summary="Change text">
       <created>1603210507447</created>
@@ -168,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604058356346</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added arrow and improve style and changed 2 pictures">
+      <created>1607980205486</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607980205486</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +184,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Change text" />
     <MESSAGE value="Change CV" />
     <MESSAGE value="Change text and style." />
@@ -194,6 +192,7 @@
     <MESSAGE value="Change text." />
     <MESSAGE value="Change styles css header" />
     <MESSAGE value="Add CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add CV" />
+    <MESSAGE value="added arrow and improve style and changed 2 pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="added arrow and improve style and changed 2 pictures" />
   </component>
 </project>
