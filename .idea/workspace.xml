@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="WebPage improved design and added new technology ScrollOut.js">
-      <change afterPath="$PROJECT_DIR$/assets/img/image_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/1613154656020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/savvytime.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mail/contact_me.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mail/contact_me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mail/contact_me.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mail/jqBootstrapValidation.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
@@ -48,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../savvy-time-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,7 +90,13 @@
       <workItem from="1607953362354" duration="9849000" />
       <workItem from="1608117339823" duration="611000" />
       <workItem from="1608118209328" duration="29314000" />
-      <workItem from="1608288750457" duration="3936000" />
+      <workItem from="1608288750457" duration="5372000" />
+      <workItem from="1608490912144" duration="37000" />
+      <workItem from="1608491055324" duration="14000" />
+      <workItem from="1608491206935" duration="62000" />
+      <workItem from="1613145107006" duration="3624000" />
+      <workItem from="1613313913928" duration="7781000" />
+      <workItem from="1613405284116" duration="5321000" />
     </task>
     <task id="LOCAL-00001" summary="Change text">
       <created>1603210507447</created>
@@ -165,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607980205486</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="WebPage improved design and added new technology ScrollOut.js">
+      <created>1608296718317</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608296718317</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +210,7 @@
     <MESSAGE value="Change styles css header" />
     <MESSAGE value="Add CV" />
     <MESSAGE value="added arrow and improve style and changed 2 pictures" />
-    <option name="LAST_COMMIT_MESSAGE" value="added arrow and improve style and changed 2 pictures" />
+    <MESSAGE value="WebPage improved design and added new technology ScrollOut.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="WebPage improved design and added new technology ScrollOut.js" />
   </component>
 </project>
