@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="WebPage improved design and added new technology ScrollOut.js">
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/1613154656020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/savvytime.png" afterDir="false" />
+    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="Added new project to portfolio and improved mail form">
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Blackjack.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mail/contact_me.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/mail/contact_me.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mail/contact_me.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mail/jqBootstrapValidation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../savvy-time-master" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zad_2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,6 +59,19 @@
       <recent name="C:\Users\vkobi\IdeaProjects\portfolio\assets\img\portfolio" />
       <recent name="D:\Little programer\portfolio\assets\img\portfolio" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,7 +103,10 @@
       <workItem from="1608491206935" duration="62000" />
       <workItem from="1613145107006" duration="3624000" />
       <workItem from="1613313913928" duration="7781000" />
-      <workItem from="1613405284116" duration="5321000" />
+      <workItem from="1613405284116" duration="6165000" />
+      <workItem from="1613458265400" duration="46000" />
+      <workItem from="1613465773442" duration="2904000" />
+      <workItem from="1619184278172" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="Change text">
       <created>1603210507447</created>
@@ -182,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608296718317</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added new project to portfolio and improved mail form">
+      <created>1613423117030</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613423117030</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +228,7 @@
     <MESSAGE value="Add CV" />
     <MESSAGE value="added arrow and improve style and changed 2 pictures" />
     <MESSAGE value="WebPage improved design and added new technology ScrollOut.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="WebPage improved design and added new technology ScrollOut.js" />
+    <MESSAGE value="Added new project to portfolio and improved mail form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new project to portfolio and improved mail form" />
   </component>
 </project>
