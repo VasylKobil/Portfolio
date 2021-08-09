@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,9 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="Added new project to portfolio and improved mail form">
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/Blackjack.png" afterDir="false" />
+    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="Update v 1.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +47,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zad_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,19 +63,6 @@
       <recent name="C:\Users\vkobi\IdeaProjects\portfolio\assets\img\portfolio" />
       <recent name="D:\Little programer\portfolio\assets\img\portfolio" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -106,7 +97,9 @@
       <workItem from="1613405284116" duration="6165000" />
       <workItem from="1613458265400" duration="46000" />
       <workItem from="1613465773442" duration="2904000" />
-      <workItem from="1619184278172" duration="612000" />
+      <workItem from="1619184278172" duration="1811000" />
+      <workItem from="1619427240357" duration="1381000" />
+      <workItem from="1628542930352" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="Change text">
       <created>1603210507447</created>
@@ -199,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613423117030</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update v 1.2">
+      <created>1619185158197</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619185158197</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +229,7 @@
     <MESSAGE value="added arrow and improve style and changed 2 pictures" />
     <MESSAGE value="WebPage improved design and added new technology ScrollOut.js" />
     <MESSAGE value="Added new project to portfolio and improved mail form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new project to portfolio and improved mail form" />
+    <MESSAGE value="Update v 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update v 1.2" />
   </component>
 </project>
