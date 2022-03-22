@@ -22,16 +22,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="Update v 1.2">
+    <list default="true" id="e9149c5a-8527-4f85-bc92-3c69d1b64e8e" name="Default Changelist" comment="Updated styles">
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/rick_morty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/personalData.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +60,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.5" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -104,6 +115,10 @@
       <workItem from="1628542930352" duration="1407000" />
       <workItem from="1647151681794" duration="780000" />
       <workItem from="1647152656385" duration="2085000" />
+      <workItem from="1647244560883" duration="117000" />
+      <workItem from="1647850183041" duration="462000" />
+      <workItem from="1647850709336" duration="267000" />
+      <workItem from="1647919586162" duration="13786000" />
     </task>
     <task id="LOCAL-00001" summary="Change text">
       <created>1603210507447</created>
@@ -203,7 +218,35 @@
       <option name="project" value="LOCAL" />
       <updated>1619185158197</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update v 1.2.3">
+      <created>1647244658059</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1647244658059</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Deleted CV">
+      <created>1647850369621</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1647850369621</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated text">
+      <created>1647850606380</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1647850606380</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Updated styles">
+      <created>1647850970386</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647850970386</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +277,10 @@
     <MESSAGE value="WebPage improved design and added new technology ScrollOut.js" />
     <MESSAGE value="Added new project to portfolio and improved mail form" />
     <MESSAGE value="Update v 1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update v 1.2" />
+    <MESSAGE value="Update v 1.2.3" />
+    <MESSAGE value="Deleted CV" />
+    <MESSAGE value="Updated text" />
+    <MESSAGE value="Updated styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated styles" />
   </component>
 </project>

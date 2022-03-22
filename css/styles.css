@@ -5093,7 +5093,9 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-flow: wrap;
+  justify-content: center;
   padding-left: 0;
   margin-bottom: 0;
   border-radius: 0.25rem;
@@ -5121,14 +5123,6 @@ a.badge-dark:focus, a.badge-dark.focus {
   padding: 0.75rem 1.25rem;
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.125);
-}
-.list-group-item:first-child {
-  border-top-left-radius: inherit;
-  border-top-right-radius: inherit;
-}
-.list-group-item:last-child {
-  border-bottom-right-radius: inherit;
-  border-bottom-left-radius: inherit;
 }
 .list-group-item.disabled, .list-group-item:disabled {
   color: #6c757d;
@@ -10536,16 +10530,22 @@ header.masthead .masthead-heading p{
   width: 300px;
   height: auto;
   padding: 10px;
-  background-color: #EDE54C;
+  background-color: #fed136;
   text-align: center;
   color: black;
-  margin: 10px 0 10px 0;
+  margin: 10px 0 40px 0;
   font-size: 2rem;
   border:solid 2px black;
 }
 .list-group-item{
+  align-self: center;
+  width: max-content;
   color: black;
   font-size: large;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background-color: #fed136;
 }
 .team-member {
     margin: auto auto;
@@ -10579,10 +10579,10 @@ header.masthead .masthead-heading p{
   width: 300px;
   height: auto;
   padding: 10px;
-  background-color: #EDE54C;
+  background-color: #fed136;
   text-align: center;
   color: black;
-  margin: 10px 0 10px 0;
+  margin: 30px 0 40px 0;
   font-size: 2rem;
   border:solid 2px black;
 }
