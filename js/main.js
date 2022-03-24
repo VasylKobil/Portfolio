@@ -101,8 +101,8 @@ const templateProjectModal = project => {
                                         <li>Client: ${project.client}</li>
                                         <li>Category: ${project.category}</li>
                                     </ul>
-                                    <a target="_blank" href="${project.linkToLive}"><i class="btn btn-primary" >Live</i></a>
-                                    <a target="_blank" href="${project.linkToCode ? project.linkToCode : project.linkToStore}"><i class="btn btn-primary" >${project.linkToCode ? 'Code' : 'Store'}</i></a>
+                                    <a target="_blank" href="${project.linkIos ? project.linkIos : project.linkToLive}"><i class="btn btn-primary" >${project.linkIos ? 'iOS' : 'Live'}</i></a>
+                                    <a target="_blank" href="${project.linkAndroid ? project.linkAndroid : project.linkToCode ? project.linkToCode : project.linkToStore}"><i class="btn btn-primary" >${project.linkAndroid ? 'Android' :project.linkToCode ? 'Code' : 'Store'}</i></a>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button" >Close Project</button>
                                 </div>
                             </div>

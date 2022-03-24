@@ -4,6 +4,17 @@ export const personalSkills = ['Motivation', 'Responsible', 'Respectful', 'Quick
 
 export const projects = [
     {
+        id: 1,
+        title: 'Savvy Time App',
+        imagePath: 'assets/img/portfolio/savvy-time-app.png',
+        description: `We created and improving App (time converter) for mobile devices iOS and Android, stack technologies: JavaScript/TypeScript, React Native/Expo, Redux Toolkit/Persist.`,
+        date: '09/2021 - currently',
+        client: 'Users',
+        category: 'Time converter',
+        linkIos: 'https://apps.apple.com/sa/app/savvy-time/id1604337442',
+        linkAndroid: 'https://play.google.com/store/apps/details?id=com.savvytime.mobile'
+    },
+    {
         id: 2,
         title: 'Rick&Morty',
         imagePath: 'assets/img/portfolio/rick_morty.png',
